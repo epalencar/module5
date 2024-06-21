@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+ }
+ h1 {
+    text-decoration: underline;
+    text-align: center; 
+    color: yellowgreen;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50pt;
+ }
+ h2 {
+    text-align: left;
+    color: darkgreen;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30pt;
+ }
+ p {
+    color: black;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+ }
+ ul {
+   color:purple
+   text-align: left;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 20pt
+ }
